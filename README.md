@@ -16,7 +16,7 @@ Creating  a ERC20 token and deploy it on the Avalanche network for Degen Gaming.
 ### Executing program
 
 * How to run the program
-* Run the below comman on terminal
+* Run the below command in the terminal
 ```
 npx hardhat run scripts/deploy.js --network fuji
 ```
