@@ -20,12 +20,12 @@ Creating  a ERC20 token and deploy it on the Avalanche network for Degen Gaming.
 ```
 npx hardhat run scripts/deploy.js --network fuji
 ```
-* After it has been deployed you will get ur contract address
+* After it has been deployed you will get your contract address
 * next step is to verify the contract
  ```
  npx hardhat verify <paste ur contract address here> --network fuji
 ```
-* after running the code you're will be verified
+* after running the code your contract will be verified
 
 
 
